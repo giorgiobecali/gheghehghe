@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:12:40	1159/1159	---M-Z	404	error ('Not%20Found')	text/html	etag:%22999-63c84b7a-4dd6d265bffece4;gz%22	https://dogai.wtf/robots.txt		(from )
+14:12:40	27487/27487	---M-Z	200	added ('OK')	text/html	etag:%226b5f-670fddf4-fb7c91f85c4313b9;gz%22	https://dogai.wtf/	C:/Users/petro/Desktop/sad/dogai.wtf/index.html	(from )
+14:12:40	0/0	---M--	302	error ('Moved%20Temporarily')	text/html	date:Thu,%2017%20Oct%202024%2011:12:47%20GMT	https://i.imgur.com/Rgbjdrm.png	C:/Users/petro/Desktop/sad/i.imgur.com/Rgbjdrm.0.delayed	(from https://dogai.wtf/)
+14:12:41	0/0	---M--	302	error ('Moved%20Temporarily')	text/html	date:Thu,%2017%20Oct%202024%2011:12:48%20GMT	https://i.imgur.com/EsQTtQd.png	C:/Users/petro/Desktop/sad/i.imgur.com/EsQTtQd.1.delayed	(from https://dogai.wtf/)
